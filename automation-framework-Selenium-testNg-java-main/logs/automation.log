@@ -1,0 +1,10 @@
+2026-04-13 17:06:18 INFO  SuiteSetup:19 - ===== Test Setup Started =====
+2026-04-13 17:06:19 INFO  SuiteSetup:23 - Browser from config: chrome
+2026-04-13 17:06:21 INFO  SuiteSetup:26 - Driver initialized successfully.
+2026-04-13 17:06:21 INFO  SuiteSetup:29 - Pages initialized successfully.
+2026-04-13 17:06:52 INFO  SuiteSetup:32 - URL launched: https://ecommerce-playground.lambdatest.io/
+2026-04-13 17:06:52 INFO  SuiteSetup:33 - ===== Test Setup Completed =====
+2026-04-13 17:06:52 INFO  RegisterAccountTestCases:21 - Clearing session and navigating to base URL before each test
+2026-04-13 17:07:05 INFO  RegisterAccountTestCases:119 - TC-R06: Verify registration with weak/short password
+2026-04-13 17:07:35 INFO  RegisterAccountTestCases:129 - TC-R06 PASSED
+2026-04-13 17:07:35 INFO  SuiteSetup:49 - ===== Test Teardown =====

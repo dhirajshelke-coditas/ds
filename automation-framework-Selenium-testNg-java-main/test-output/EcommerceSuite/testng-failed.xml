@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [EcommerceSuite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="listner.ExtentReportListner"/>
+  </listeners>
+  <test thread-count="5" name="RegisterTests(failed)">
+    <classes>
+      <class name="testCases.RegisterAccountTestCases">
+        <methods>
+          <include name="setup"/>
+          <include name="verifyRegistrationWithoutPrivacyPolicy"/>
+          <include name="setupTest"/>
+          <include name="quit"/>
+          <include name="verifyRegistrationWithWeakPassword"/>
+        </methods>
+      </class> <!-- testCases.RegisterAccountTestCases -->
+    </classes>
+  </test> <!-- RegisterTests(failed) -->
+</suite> <!-- Failed suite [EcommerceSuite] -->

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="EcommerceSuite" verbose="1">
+
+    <listeners>
+        <listener class-name="listner.ExtentReportListner"/>
+    </listeners>
+
+    <test name="HomePageTests">
+        <classes>
+            <class name="testCases.HomePageTestCases"/>
+        </classes>
+    </test>
+    
+     <test name="RegisterTests">
+        <classes>
+            <class name="testCases.RegisterAccountTestCases"/>
+        </classes>
+    </test>
+
+    <test name="LoginTests">
+        <classes>
+            <class name="testCases.LoginTestCases"/>
+        </classes>
+    </test>
+
+   
+
+</suite>
