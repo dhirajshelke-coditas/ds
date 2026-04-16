@@ -1,0 +1,5 @@
+2026-04-16 15:46:58 INFO  TC001_AccountRegistrationTest:16 - ************Started Test Case 1***********************
+2026-04-16 15:47:00 INFO  TC001_AccountRegistrationTest:19 - Clicked on My Accounts Button
+2026-04-16 15:47:02 INFO  TC001_AccountRegistrationTest:22 - Clicked on Register Button
+2026-04-16 15:47:02 INFO  TC001_AccountRegistrationTest:28 - Providing the customer details
+2026-04-16 15:47:06 INFO  TC001_AccountRegistrationTest:38 - Validating excepted message
