@@ -1,0 +1,4 @@
+2026-04-17 15:03:01 INFO  TC002_LoginTest:24 - ************Started Test Case 2***********************
+2026-04-17 15:03:04 INFO  TC002_LoginTest:33 - Clicked on My Account Button
+2026-04-17 15:03:04 INFO  TC002_LoginTest:36 - Providing login details
+2026-04-17 15:03:08 INFO  TC002_LoginTest:46 - ----------------------Finished TC_002----------------------------
